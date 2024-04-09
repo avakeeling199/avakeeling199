@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avakeeling199
 - 👀 I’m interested in Machine Learning applications in Healthcare
-- 🌱 I’m currently studying MSc Health Data Science and Statistics
-
+- 🌱 I’m currently self learning basic game development with PyGame
+- 📚 I'm currently studying MSc Health Data Science and Statistics
 - 📫 How to reach me - ava.keeling@students.plymouth.ac.uk
 - 😄 Pronouns: she/her
 
