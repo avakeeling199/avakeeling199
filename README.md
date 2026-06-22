@@ -23,7 +23,7 @@ DPhil researcher at the University of Oxford, affiliated with the **Big Data Ins
 
 ---
 
-📫 ava.keeling@[your oxford email]  
+📫 ava.keeling@stx.ox.ac.uk
 😄 Pronouns: she/her
 
 <!---
